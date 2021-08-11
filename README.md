@@ -4,4 +4,4 @@ sesion 2 dia 9 agosto 2021
 - 💼 _Laboratorios_:
  + [laboratorio_1](Laboratorio_1.pdf)
 - ✍️ _tareas_:
-- 
+ + [tarea_1](Tarea_1_MelvinDeLaRosa.pdf)
