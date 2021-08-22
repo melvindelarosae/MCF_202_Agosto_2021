@@ -35,6 +35,9 @@ head(DBH.media)
 DBH.16 <- subset(conjunto, Diametro > 16)
 head(DBH.16)
 
+subset(conjunto, Especie=="C", select = c(Especie))
+subset(conjunto, Especie=="F", select = c(Especie))
+subset(conjunto, Especie=="H", select = c(Especie))
 
 #Visualización de datos 
 
