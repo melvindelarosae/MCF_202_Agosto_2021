@@ -15,20 +15,19 @@ Xi <- c(6,4,1,3)
 Yi <- c(1,3,4,2)
 
 # ∑4i=1xi
-sum(Xi^4)
+sum(Xi)
 
 # ∑4i=1xiyi
-sum(Xi*Yi^4)
+sum(Xi*Yi)
 
 # ∏4i=1xi
-prod(Xi^4)
+prod(Xi)
 
 # ∏4i=1xiyi
-prod(Xi*Yi^4)
+prod(Xi*Yi)
 
 # ∏4i=1=x2iy0.5
 prod(Xi^2*Yi^0.5)
-
 
 # Problema 2 --------------------------------------------------------------
 
@@ -77,15 +76,17 @@ Cajasp <- c(1,3,5,3,1)
 
 #a) ¿Qué tipo de gráfico podrías usar para visualizar estos datos?
 plot(Germinaciones,Cajasp)
-
+barplot(Cajasp)
 #b) ¿Cuál es la media? Muestre su trabajo o código, 
 #o explique cómo obtuvo su respuesta.
-mean(Germinaciones)
 
+mean(Germinaciones)
+mean(Cajasp)
 #c)¿Cuál es la mediana? Muestre su trabajo o código,
 #o explique cómo obtuvo su respuesta.
-median(Germinaciones)
 
+median(Germinaciones)
+median(Cajasp)
 
 # Problema 6 --------------------------------------------------------------
 
@@ -111,8 +112,7 @@ mean(set5)
 #cuando se agrega la misma constante a cada valorde datos 
 #en un conjunto?
 # Respuesta: la posición de la moda y la mediana no tienen cambios
-# la media es el único valor que muestra diferencias al sumar o multiplicar
-# una constante 
+# pero los valores se incrementan 
 
 #d)
 setx <- set*5
@@ -129,6 +129,7 @@ mean(setx)
 
 # 5,8,7,9,6
 (5+8+7+9+6)/5
+
 
 #b) enumere 5 digitos que tengan una mediana de 7 y una media inferior a 7
 
