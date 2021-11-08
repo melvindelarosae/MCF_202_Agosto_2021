@@ -1,7 +1,7 @@
 # MCF_202_Agosto_2021
 Desarrollo del curso análisis estadístico Agosto 2021
 Lista de las sesiones, laboratorios y tareas desarrollados a lo largo del curso 
-- 📄 _Sesiones_: 
+- 📖 _Sesiones_: 
  + [Sesión_2](
  + [Sesión_3](
  + [Sesión_4](
@@ -25,3 +25,5 @@ Lista de las sesiones, laboratorios y tareas desarrollados a lo largo del curso
  + [tarea_7]
  + [tarea_8]
  + [tarea_9]
+- 🔗_Contribuciones al repositorio_:
+- [contribution](https://drive.google.com/file/d/14JADIOy6uUKyh-HJCfvnPDIBHUpr-a0l/view?usp=sharing)
