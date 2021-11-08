@@ -13,17 +13,17 @@ Lista de las sesiones, laboratorios y tareas desarrollados a lo largo del curso
  + [laboratorio_1](Laboratorio_1.pdf)
  + [Laboratorio_semana_3](Laboratorio_Sem_3.pdf)
  + [Laboratorio_semana_4](Laboratorios/Laboratorio_Sem_4.pdf)
- + [Laboratorio_semana_5]
- + [Laboratorio_semana_6]
+ + [Laboratorio_semana_5](Laboratorios/Laboratorio_Sem_5.pdf)
+ + [Laboratorio_semana_6](Laboratorios/Laboratorio_Sem_6.pdf)
 - ✍️ _tareas_:
  + [tarea_1](Tarea_1_MelvinDeLaRosa.pdf)
  + [tarea_2](tareas/Tarea_2_MelvinDeLaRosa.pdf)
  + [tarea_3](tareas/Tarea_3_MelvinDeLaRosa.pdf)
  + [tarea_4](tareas/Tarea_4_MelvinDeLaRosa.pdf)
- + [tarea_5]
- + [tarea_6]
- + [tarea_7]
- + [tarea_8]
- + [tarea_9]
+ + [tarea_5](tareas/Tarea_5_MelvinDeLaRosa.pdf)
+ + [tarea_6](tareas/Tarea_6_MelvinDeLaRosa.pdf)
+ + [tarea_7](tareas/Tarea_7_MelvinDeLaRosa.pdf)
+ + [tarea_8](tareas/Tarea_8_MelvinDeLaRosa.pdf)
+ + [tarea_9](tareas/Tarea_9_MelvinDeLaRosa.pdf)
 - 🔗_Contribuciones al repositorio_:
 - ![contribution!](https://drive.google.com/file/d/14JADIOy6uUKyh-HJCfvnPDIBHUpr-a0l/view?usp=sharing)
