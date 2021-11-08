@@ -26,4 +26,4 @@ Lista de las sesiones, laboratorios y tareas desarrollados a lo largo del curso
  + [tarea_8]
  + [tarea_9]
 - 🔗_Contribuciones al repositorio_:
-- [contribution](https://drive.google.com/file/d/14JADIOy6uUKyh-HJCfvnPDIBHUpr-a0l/view?usp=sharing)
+- ![contribution!](https://drive.google.com/file/d/14JADIOy6uUKyh-HJCfvnPDIBHUpr-a0l/view?usp=sharing)
