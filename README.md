@@ -2,13 +2,13 @@
 Desarrollo del curso análisis estadístico Agosto 2021
 Lista de las sesiones, laboratorios y tareas desarrollados a lo largo del curso 
 - 📖 _Sesiones_: 
- + [Sesión_2](
- + [Sesión_3](
- + [Sesión_4](
- + [Sesión_5](
- + [Sesión_6](
- + [Sesión_7](
- + [Sesión_8](
+ + [Sesión_2](sesiones/sesión_2.R)
+ + [Sesión_3](sesiones/sesión_3.R)
+ + [Sesión_4](sesiones/sesión_4.R)
+ + [Sesión_5](sesiones/sesión_5.R)
+ + [Sesión_6](sesiones/sesión_6.R)
+ + [Sesión_7](sesiones/sesión_7.R)
+ + [Sesión_8](sesiones/sesión_8.R)
 - 📃 *Laboratorios*:
  + [laboratorio_1](Laboratorio_1.pdf)
  + [Laboratorio_semana_3](Laboratorio_Sem_3.pdf)
@@ -26,4 +26,4 @@ Lista de las sesiones, laboratorios y tareas desarrollados a lo largo del curso
  + [tarea_8]
  + [tarea_9]
 - 🔗_Contribuciones al repositorio_:
-![contribution!](https://drive.google.com/file/d/14JADIOy6uUKyh-HJCfvnPDIBHUpr-a0l/view?usp=sharing)
+- ![contribution!](https://drive.google.com/file/d/14JADIOy6uUKyh-HJCfvnPDIBHUpr-a0l/view?usp=sharing)
