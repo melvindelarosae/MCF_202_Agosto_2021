@@ -27,7 +27,7 @@ Desarrollo del curso análisis estadístico Agosto 2021
  + [Laboratorio_semana_5](Laboratorios/Laboratorio_Sem_5.pdf)
    + 📝 manipulación de vectores subconjuntos 
  + [Laboratorio_semana_6](Laboratorios/Laboratorio_Sem_6.pdf)
-- ✍️ _tareas_:
+- ✍️ _Tareas_:
    + 💻 primer análisis en R y evidencia de descarga de programas
  + [tarea_1](Tarea_1_MelvinDeLaRosa.pdf)
    + 💻 uso de restricciones y estadística descriptiva 
