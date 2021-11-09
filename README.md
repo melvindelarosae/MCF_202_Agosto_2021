@@ -17,10 +17,15 @@ Lista de las sesiones, laboratorios y tareas desarrollados a lo largo del curso
    + 🎯 análisis de ANOVA en R
  + [Sesión_8](sesiones/sesión_8.R)
 - 📃 *Laboratorios*:
+   + 📝 creación de objetos en R, variables cualitativas y cuantitativas 
  + [laboratorio_1](Laboratorio_1.pdf)
+   + 📝 importar datos a R, operaciones con la base de datos 
  + [Laboratorio_semana_3](Laboratorio_Sem_3.pdf)
+   + 📝 resumir datos graficamente 
  + [Laboratorio_semana_4](Laboratorios/Laboratorio_Sem_4.pdf)
+   + 📝 generar los gráficos de distribución
  + [Laboratorio_semana_5](Laboratorios/Laboratorio_Sem_5.pdf)
+   + 📝 manipulación de vectores subconjuntos 
  + [Laboratorio_semana_6](Laboratorios/Laboratorio_Sem_6.pdf)
 - ✍️ _tareas_:
  + [tarea_1](Tarea_1_MelvinDeLaRosa.pdf)
