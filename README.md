@@ -28,14 +28,23 @@ Lista de las sesiones, laboratorios y tareas desarrollados a lo largo del curso
    + 📝 manipulación de vectores subconjuntos 
  + [Laboratorio_semana_6](Laboratorios/Laboratorio_Sem_6.pdf)
 - ✍️ _tareas_:
+   + 💻 primer análisis en R y evidencia de descarga de programas
  + [tarea_1](Tarea_1_MelvinDeLaRosa.pdf)
+   + 💻 uso de restricciones y estadística descriptiva 
  + [tarea_2](tareas/Tarea_2_MelvinDeLaRosa.pdf)
+   + 💻 medidas de tendencia central
  + [tarea_3](tareas/Tarea_3_MelvinDeLaRosa.pdf)
+   + 💻 boxplot e histogramas
  + [tarea_4](tareas/Tarea_4_MelvinDeLaRosa.pdf)
+   + 💻 Correlación
  + [tarea_5](tareas/Tarea_5_MelvinDeLaRosa.pdf)
+   + 💻 regresión lineal 
  + [tarea_6](tareas/Tarea_6_MelvinDeLaRosa.pdf)
+   + 💻 comparacion de medias 
  + [tarea_7](tareas/Tarea_7_MelvinDeLaRosa.pdf)
+   + 💻 comparacion de medias pt2
  + [tarea_8](tareas/Tarea_8_MelvinDeLaRosa.pdf)
+   + 💻 analisis de varianza 
  + [tarea_9](tareas/Tarea_9_MelvinDeLaRosa.pdf)
 - 🔗_Contribuciones al repositorio_:
 - <img width="900" alt="Captura de Pantalla 2021-11-08 a la(s) 18 15 43" src="https://user-images.githubusercontent.com/88354991/140838613-76101ca5-ecf3-4790-a5bb-30da1b3f76a3.png">
