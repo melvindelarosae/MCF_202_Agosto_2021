@@ -2,12 +2,19 @@
 Desarrollo del curso análisis estadístico Agosto 2021
 Lista de las sesiones, laboratorios y tareas desarrollados a lo largo del curso 
 - 📖 _Sesiones_: 
+-  + 🎯 introducción al programa R studio, se desarrollo el primer script
  + [Sesión_2](sesiones/sesión_2.R)
+   + 🎯 importar datos CSV, medidas de tendencia central
  + [Sesión_3](sesiones/sesión_3.R)
+   + 🎯 revisión de datos, gráfica de normalidad 
  + [Sesión_4](sesiones/sesión_4.R)
+   + 🎯 prueba de correlación, ejercicio manual en R studio
  + [Sesión_5](sesiones/sesión_5.R)
+   + 🎯 prueba de t student
  + [Sesión_6](sesiones/sesión_6.R)
+   + 🎯 prueba de t de forma independiente
  + [Sesión_7](sesiones/sesión_7.R)
+   + 🎯 análisis de ANOVA en R
  + [Sesión_8](sesiones/sesión_8.R)
 - 📃 *Laboratorios*:
  + [laboratorio_1](Laboratorio_1.pdf)
