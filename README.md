@@ -26,4 +26,4 @@ Lista de las sesiones, laboratorios y tareas desarrollados a lo largo del curso
  + [tarea_8](tareas/Tarea_8_MelvinDeLaRosa.pdf)
  + [tarea_9](tareas/Tarea_9_MelvinDeLaRosa.pdf)
 - 🔗_Contribuciones al repositorio_:
-- ![contribution!](https://drive.google.com/file/d/14JADIOy6uUKyh-HJCfvnPDIBHUpr-a0l/view?usp=sharing)
+- <img width="900" alt="Captura de Pantalla 2021-11-08 a la(s) 18 15 43" src="https://user-images.githubusercontent.com/88354991/140838613-76101ca5-ecf3-4790-a5bb-30da1b3f76a3.png">
